@@ -4,7 +4,6 @@ Neural machine translation (NMT) is an approach to machine translation that uses
 ```
 Project developed for the course Natural Language Processing  
 ```
-### Neural-Machine-Translation
 ### Author:
 ```
 Nikhil Gavin Crasta (MSc. Artificial Intelligence Systems)
